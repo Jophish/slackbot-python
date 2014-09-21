@@ -1,11 +1,11 @@
 config = {
-    "webhook_token": 'zRvQarFn8rtOYY8mcYef0uR6',
+    "webhook_token": 'NdIVr4vjh1juAaxPGKvQu55P',
     "sqs_token": '<amazon sqs integration token>',
     "aws_access_key": '<with sqs permissions>',
     "aws_secret_key": '<with sqs permissions>',
     "username": 'pybot',
     "icon_url": 'https://slack-assets2.s3-us-west-2.amazonaws.com/10068/img/slackbot_192.png',
-    "domain": 'https://shfriends.slack.com/messages/testing/',
+    "domain": 'https://shfriends.slack.com',
     "queue": '<sqs queue name>',
 
     # stackdriver plugin
